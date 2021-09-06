@@ -9,9 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@material-ui/core": "^4.12.1",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.60",
+    "material-ui-phone-number": "^2.2.6",
     "next": "11.0.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-custom-scrollbars": "^4.2.1",
+    "react-dom": "17.0.2",
+    "react-hook-form": "^7.10.1",
+    "react-redux": "^7.2.4",
+    "react-slideshow-image": "^3.5.0",
+    "redux": "^4.1.0",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.3.0",
+    "swiper": "^6.7.5"
   },
   "devDependencies": {
     "eslint": "7.30.0",
